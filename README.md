@@ -37,7 +37,7 @@
 brew install sunnyyoung/repo/wechattweak-cli
 ```
 
-安装/更新/卸载 Tweak:
+**安装/更新/卸载 Tweak:**
 
 安装/更新
 ```bash
