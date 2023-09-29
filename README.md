@@ -41,6 +41,9 @@ brew install sunnyyoung/repo/wechattweak-cli
 
 ```bash
 sudo wechattweak-cli install   # 安装/更新
+```
+
+```bash
 sudo wechattweak-cli uninstall # 卸载
 ```
 
